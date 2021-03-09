@@ -50,29 +50,29 @@
 }
 .text1Sty{
     position: absolute;
-    bottom: 40px;
+    bottom: 100px;
     left: 205px;
     color: #f1f1f1;
     visibility: hidden;
   }
   .text2Sty{
     position: absolute;
-    bottom: 40px;
-    left:510px;
+    bottom: 100px;
+    left:505px;
     color: #f1f1f1; 
     visibility: hidden;
   }
   .text3Sty{
     position: absolute;
-    bottom: 40px;
-    left:780px;
+    bottom: 100px;
+    left:785px;
     color: #f1f1f1;
     visibility: hidden;
   }
 .text4Sty{
     position: absolute;
-    bottom: 40px;
-    left:1095px;
+    bottom: 100px;
+    left:1100px;
     color: #f1f1f1;
     visibility: hidden;
 }
